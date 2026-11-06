@@ -1,0 +1,4 @@
+# Optional: only needed for voice mode. Text mode works without them.
+SpeechRecognition
+PyAudio
+pyttsx3
